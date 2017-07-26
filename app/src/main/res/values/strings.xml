@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SerializableTest</string>
+    <string name="serializable">Serializable</string>
+    <string name="parcelable">Parcelable</string>
+    <string name="serialize_time">Serialize: %1$d ns</string>
+    <string name="deserialize_time">Deserialize: %1$d ns</string>
+</resources>
